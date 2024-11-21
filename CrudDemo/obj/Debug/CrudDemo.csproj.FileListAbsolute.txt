@@ -1,0 +1,10 @@
+C:\Users\sohai\source\repos\CrudDemo\CrudDemo\bin\Debug\CrudDemo.exe.config
+C:\Users\sohai\source\repos\CrudDemo\CrudDemo\bin\Debug\CrudDemo.exe
+C:\Users\sohai\source\repos\CrudDemo\CrudDemo\bin\Debug\CrudDemo.pdb
+C:\Users\sohai\source\repos\CrudDemo\CrudDemo\obj\Debug\CrudDemo.csproj.AssemblyReference.cache
+C:\Users\sohai\source\repos\CrudDemo\CrudDemo\obj\Debug\CrudDemo.Form1.resources
+C:\Users\sohai\source\repos\CrudDemo\CrudDemo\obj\Debug\CrudDemo.Properties.Resources.resources
+C:\Users\sohai\source\repos\CrudDemo\CrudDemo\obj\Debug\CrudDemo.csproj.GenerateResource.cache
+C:\Users\sohai\source\repos\CrudDemo\CrudDemo\obj\Debug\CrudDemo.csproj.CoreCompileInputs.cache
+C:\Users\sohai\source\repos\CrudDemo\CrudDemo\obj\Debug\CrudDemo.exe
+C:\Users\sohai\source\repos\CrudDemo\CrudDemo\obj\Debug\CrudDemo.pdb
